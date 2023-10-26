@@ -9,6 +9,3 @@ To keep my repositories organized, I created GitHub organizations. They are spli
 * [School projects BBW (Berufsbildungsschule Winterthur)](https://github.com/simonpeier-school-bbw) projects I have done for school during my apprenticeship
 
 My own projects (which I do J4F 😁) can still be found in the ["Repositories"](https://github.com/simonpeier?tab=repositories) section on my personal profile!
-
-<br/><br/>
-If you'd like to collaborate with me, hit my dm's (via email to dev@simonpeier.ch)!
