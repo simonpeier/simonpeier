@@ -1,11 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Simon 👋
 
-I am Simon, a random dude from the Switzerland, mostly doing some java and kotlin stuff in my free time.
-My past work experience includes working on some AR/MR stuff with Unity/C# and various Java/Kotlin projects for Comerge AG as a Junior Software Engineer.
+I'm a random dude from the Switzerland, mostly doing Java and Kotlin stuff in my free time.  
+Currently, I am pursuing my Bachelor's degree in Computer Science. My past work experience includes working on some AR/MR stuff with Unity/C# and various Java/Kotlin projects for Comerge AG as a Junior Software Engineer.
 
-To keep my repositories organized, I created GitHub organizations. They are split up into the following:
-* [Wiki](https://github.com/simonpeier-wiki) a collection of useful cheatsheets, manuals and scripts
-* [Tutorials](https://github.com/simonpeier-tutorials) tutorials that I have completed in self study
-* [School projects BBW (Berufsbildungsschule Winterthur)](https://github.com/simonpeier-school-bbw) projects I have done for school during my apprenticeship
-
-My own projects (which I do J4F 😁) can still be found in the ["Repositories"](https://github.com/simonpeier?tab=repositories) section on my personal profile!
+My own projects are kept in the ["Repositories"](https://github.com/simonpeier?tab=repositories) section of my personal profile.  
+Further projects can be found in my GitHub organizations, which I created to keep my projects organized. Most interesting are probably my [University projects](https://github.com/simonpeier-ost) and my personal [Wiki](https://github.com/simonpeier-wiki).
